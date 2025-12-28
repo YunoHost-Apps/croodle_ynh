@@ -4,7 +4,7 @@ packaging_format = 2
 
 id = "croodle"
 name = "croodle"
-description.en = "web application to schedule a date or to do a poll on a general topics"
+description.en = "Web application to schedule a date or to do a poll on a general topics"
 description.fr = "Application web permettant de fixer une date ou de réaliser un sondage sur des sujets généraux"
 
 version = "0.7.0~ynh1"
@@ -13,8 +13,6 @@ maintainers = ["eric_G"]
 
 [upstream]
 license = "MIT"
-website = "https://example.com"
-demo = "https://demo.example.com"
 code = "https://github.com/jelhan/croodle"
 
 [integration]
@@ -58,4 +56,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "php8.4-fpm"
+    packages = "php8.4-fpm, php8.4-cli"

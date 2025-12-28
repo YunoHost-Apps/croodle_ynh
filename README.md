@@ -8,10 +8,8 @@ It shall NOT be edited by hand.
   croodle, packaged for YunoHost
 </h1>
 
-web application to schedule a date or to do a poll on a general topics
+Web application to schedule a date or to do a poll on a general topics
 
-[![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://example.com)
-[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.example.com)
 [![Version: 0.7.0~ynh1](https://img.shields.io/badge/Version-0.7.0~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/croodle/)
 
 <div align="center">
